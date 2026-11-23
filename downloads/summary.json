@@ -1,0 +1,65 @@
+{
+  "precision": 180,
+  "tolerance": "1E-12",
+  "counts": [
+    {
+      "a": "0.01",
+      "heron": 8,
+      "bakhshali": 4,
+      "two_variables": 11
+    },
+    {
+      "a": "0.25",
+      "heron": 5,
+      "bakhshali": 3,
+      "two_variables": 7
+    },
+    {
+      "a": "1",
+      "heron": 0,
+      "bakhshali": 0,
+      "two_variables": 0
+    },
+    {
+      "a": "2",
+      "heron": 5,
+      "bakhshali": 3,
+      "two_variables": 6
+    },
+    {
+      "a": "2.9",
+      "heron": 5,
+      "bakhshali": 3,
+      "two_variables": 12
+    },
+    {
+      "a": "2.99",
+      "heron": 5,
+      "bakhshali": 3,
+      "two_variables": 18
+    }
+  ],
+  "starts": [
+    {
+      "x0": "0.1",
+      "heron": 8,
+      "bakhshali": 4
+    },
+    {
+      "x0": "1",
+      "heron": 5,
+      "bakhshali": 3
+    },
+    {
+      "x0": "2",
+      "heron": 5,
+      "bakhshali": 3
+    },
+    {
+      "x0": "10",
+      "heron": 7,
+      "bakhshali": 4
+    }
+  ],
+  "check": "Все численные проверки пройдены"
+}
